@@ -1,0 +1,7 @@
+{
+    "url": "https://eu.csmm.app",
+    "interval": 60000,
+    "restartCommand": "pm2 restart csmm",
+    "restartCooldown": 300000,
+    "stringToCheck": "Catalysms Server Monitor &amp; Manager</h1>"
+}
